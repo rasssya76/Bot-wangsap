@@ -1,1 +1,1 @@
-worker: npm start
+worker : npm i google-it && npm start
