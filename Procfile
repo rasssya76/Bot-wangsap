@@ -1,1 +1,1 @@
-worker : npm i google-it && npm start
+worker : npm i google-it && npm i fake-useragent && npm start
