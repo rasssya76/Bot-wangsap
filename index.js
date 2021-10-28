@@ -116,7 +116,7 @@ dana = "0815-1558-9573"
 namabot = "*R-Bot*";
 linkimg = "https://telegra.ph/file/fb08daf350ee2092c200f.jpg";
 /*ITU YG DI ATAS LINK IMAGENYA DONASI DANA YA KAWAN*/
-grupct = "https://chat.whatsapp.com/HECLovHbCI6LVVH4Q8FN2C";
+grupct = "https://chat.whatsapp.com/DZf52GZI0yUA4izbhsjLqa";
 owner = "6281515589573";
 nama_owner = "RamaGans";
 instagram = "RamaGans";
